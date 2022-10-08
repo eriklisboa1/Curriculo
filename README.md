@@ -1,2 +1,4 @@
-# Curriculo
-Meu currículo feito em Markdown .md
+# Erik Teixeira Lisboa
+Desenvolvedor Back End.
+
+:house: Santo Antonio De Jesus/BA <br>
