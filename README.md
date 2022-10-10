@@ -2,7 +2,7 @@
 Desenvolvedor Back End.
 
 :house: Santo Antonio De Jesus/BA <br>
-:iphone: (75) 759886960601 <br>
+:iphone: (75) 9886960601 <br>
 :envelope: eriklisboa72@outlook.com <br>
 
 ## Formação 
@@ -44,9 +44,8 @@ Desenvolvedor Back End.
 * Git
  
  ## Cursos 
- * Introdução ao .NET - (DIO / [Certificado] (https://hermes.digitalinnovation.one/certificates/BF899EA9.pdf))
- * Bootcamp, Desenvolvimento Back End c# .NET - (Gama Academy / [Certificado]
-(https://drive.google.com/file/d/1Y2DZcY3wMGbi3ANHomHO55qsDz6_FoK9/view?usp=sharing))
+ * Introdução ao .NET - (DIO) [Certificado](https://hermes.digitalinnovation.one/certificates/BF899EA9.pdf)
+ * Bootcamp, Desenvolvimento Back End c# .NET - (Gama Academy) [Certificado](https://drive.google.com/file/d/1Y2DZcY3wMGbi3ANHomHO55qsDz6_FoK9/view?usp=sharing)
  
  ## Redes Sociais
 *  [Instagram](https://www.instagram.com/eriklisboa1/?next=%2F)
