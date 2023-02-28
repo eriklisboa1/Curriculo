@@ -5,6 +5,9 @@ Desenvolvedor Back End.
 :iphone: (75) 9886960601 <br>
 :envelope: eriklisboa72@outlook.com <br>
 
+## Sobre mim
+Eu sou um estudante de programação com conhecimentos em HTML, CSS e C#, Sql, atualmente estudando Java. Faço faculdade de Analise e desenvolvimento de sistema. E antes de iniciar na programação, possuo dois anos de experiência em vendas e gerenciamento tendo fortemente consolidado toda a parte de Comunicação, Trabalho em equipe, Tomada de decisão... Sou apaixonado por tecnologia e tenho interesse em ser um desenvolvedor back-end Java.
+
 ## Formação 
 
 * **Analise e desenvolvimento de sistemas** <br>
