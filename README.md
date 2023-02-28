@@ -52,6 +52,5 @@ Eu sou um estudante de programação com conhecimentos em HTML, CSS e C#, Sql, a
  * Bootcamp, Desenvolvimento Back End c# .NET - (Gama Academy) [Certificado](https://drive.google.com/file/d/1Y2DZcY3wMGbi3ANHomHO55qsDz6_FoK9/view?usp=sharing)
  
  ## Redes Sociais
-*  [Email](eriklisboa72@outlook.com)
 *  [Linkedin](https://https://www.linkedin.com/in/eriklisboa1/)
 *  [Github](https://github.com/eriklisboa1)
