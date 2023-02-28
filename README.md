@@ -17,6 +17,7 @@ Desenvolvedor Back End.
 *HLDIGITAL*
 2019 - 2021
  * Gerenciava o processo de visita domiciliar ao cliente.
+ # Responsável pelo setor de vendas.
  
  ## Conhecimentos
 
